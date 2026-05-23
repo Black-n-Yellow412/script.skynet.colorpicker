@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colors>
+    <palette name="Skynet">
+        
+        <color name="White">FFFFFFFF</color>
+        <color name="Light Gray">FFD3D3D3</color>
+        <color name="Gray">FF808080</color>
+        <color name="Dim Gray">FF696969</color>
+        <color name="Dark Charcoal">FF111111</color>
+        <color name="Pure Black">FF000000</color>
+
+        <color name="Pittsburgh Yellow">FFFFB612</color>
+        <color name="Gold">FFB38000</color>
+        <color name="Burnt Gold">FF805B00</color>
+        <color name="Bright Yellow">FFFFD300</color>
+        <color name="Mustard">FF4A3A00</color>
+        
+        <color name="Orange">FFFFA500</color>
+        <color name="Neon Orange">FFFF5E00</color>
+        <color name="Dark Orange">FFFF8C00</color>
+        <color name="Blood Orange">FFFF4500</color>
+        <color name="Orange-Red">FFFF6347</color>
+        <color name="Rust">FF5E2000</color>
+
+        <color name="Red">FFFF0000</color>
+        <color name="Cherry Red">FFD2042D</color>
+        <color name="Crimson">FFDC143C</color>
+        <color name="Blood Crimson">FF660011</color>
+        <color name="Dark Red">FF330008</color>
+        
+        <color name="Pink">FFFFC0CB</color>
+        <color name="Hot Pink">FFFF69B4</color>
+        <color name="Deep Pink">FFFF1493</color>
+        <color name="Magenta">FFFF00FF</color>
+        <color name="Dark Rose">FF4D0026</color>
+        <color name="Dark Fuchsia">FF330033</color>
+
+        <color name="Purple">FF4B0082</color>
+        <color name="Medium Purple">FF9370DB</color>
+        <color name="Plum">FFDDA0DD</color>
+        <color name="Neon Purple">FFB800FF</color>
+        <color name="Deep Plum">FF2A0033</color>
+        <color name="Deep Violet">FF0D001A</color>
+        <color name="Midnight Purple">FF1F0036</color>
+        <color name="Deep Purple">FF11001E</color>
+
+        <color name="Carolina Blue">FF4B9CD3</color>
+        <color name="Baby Blue">FF89CFF0</color>
+        <color name="Sky">FF00BFFF</color>
+        <color name="Cobalt">FF1B03A3</color>
+        <color name="Midnight Blue">FF001A4D</color>
+        <color name="Steel Blue">FF1A4365</color>
+        <color name="Navy">FF001333</color>
+        <color name="Deep Ocean">FF000B24</color>
+        
+        <color name="Turquoise">FF08E8DE</color>
+        <color name="Cyan">FF00FFFF</color>
+        <color name="Aquamarine">FF7FFFD4</color>
+        <color name="Teal">FF008080</color>
+        <color name="Dark Cyan">FF003333</color>
+        <color name="Dark Teal">FF002E2E</color>
+        <color name="Dark Marine">FF004033</color>
+        
+        <color name="Mint">FF98FF98</color>
+        <color name="Spring Green">FF00FF7F</color>
+        <color name="Emerald">FF50C878</color>
+        <color name="Green">FF00FF00</color>
+        <color name="Forest Green">FF228B22</color>
+        <color name="Deep Forest">FF0B3311</color>
+        <color name="Dark Forest">FF002600</color>
+        <color name="Dark Pine">FF001F0F</color>
+        <color name="Dark Jade">FF00331A</color>
+
+    </palette>
+</colors>
